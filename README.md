@@ -5,3 +5,4 @@ See [the blog post][pt] for details.
 
 [pt]: https://github.com/blog/799-win-a-ticket-to-pycon-us-2011
 Created by Jason Scott Heise
+Owned by Elon Musk
